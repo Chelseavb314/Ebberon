@@ -1,0 +1,245 @@
+{
+  "main": {
+    "id": "c405399d0903210f",
+    "type": "split",
+    "children": [
+      {
+        "id": "40e91f322e29bf4c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "a19e9eda8d355265",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ebberon/Ebberon.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Ebberon"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "71cf2b3e8fb1ebf4",
+    "type": "split",
+    "children": [
+      {
+        "id": "46e4002a6f47483b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "07dfc51a3f6e4f16",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "12194cc1b90fd319",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "686b4471b62c4024",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "2ee715e638aef08d",
+    "type": "split",
+    "children": [
+      {
+        "id": "52614424266d30c6",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04f897437287ddb9",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Ebberon/Characters/Adventuring Party/Adventuring Party.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Adventuring Party"
+            }
+          },
+          {
+            "id": "6fb03b20f06f65c9",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "LOCATIONS.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from LOCATIONS"
+            }
+          },
+          {
+            "id": "0af935f620a45524",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "74077dc907ccd1b9",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "4bcf09fef31e483c",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "LOCATIONS.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of LOCATIONS"
+            }
+          },
+          {
+            "id": "3dd53f6aecd3b405",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "bases:Create new base": false,
+      "obsidian-git:Open Git source control": false,
+      "omnisearch:Omnisearch": false,
+      "pdf-plus:PDF++: Toggle auto-copy": false,
+      "pdf-plus:PDF++: Toggle auto-focus": false,
+      "pdf-plus:PDF++: Toggle auto-paste": false
+    }
+  },
+  "active": "a19e9eda8d355265",
+  "lastOpenFiles": [
+    "Ebberon/Locations/Locations.md",
+    "Ebberon/Inventory/Letter to Aladoro.md",
+    "Ebberon/Inventory/Journal of Jasran d'Vadalis.pdf",
+    "Ebberon/Inventory/Inventory.md",
+    "Ebberon/Houses/House Thuranni.md",
+    "Ebberon/Houses/House Sivis.md",
+    "Ebberon/Houses/House Orien.md",
+    "Ebberon/Houses/House Mendani.md",
+    "Ebberon/Houses/House Lyrandar.md",
+    "Ebberon/Houses/House Kundarak.md",
+    "Ebberon/Houses/House Jurassco.md",
+    "Ebberon/Houses/Dragon Houses.md",
+    "Ebberon/Characters/Characters.md",
+    "Ebberon/Characters/Organizations and Other Groups/Organizations and Other Groups.md",
+    "Ebberon/Characters/Organizations and Other Groups/Daeklyr.md",
+    "Ebberon/Characters/Organizations and Other Groups/Cyre Refugees.md",
+    "Ebberon/Characters/Organizations and Other Groups/C.A.R.E. The Coalition of Arcane Recovery and Examination.md",
+    "Ebberon/Characters/Allies/Allies.md",
+    "Ebberon/Characters/Adventuring Party/Adventuring Party.md",
+    "Ebberon/Quests/Main Quest.md",
+    "Ebberon/Characters/Other/Other.md",
+    "Ebberon/Quests/Completed Objectives/Find a missing body in Lower Sharn.md",
+    "Ebberon/Characters/Other/(Deceased) Heir of House Lyrander.md",
+    "Ebberon/Locations/Sharn.md",
+    "Ebberon/Locations/Cyre.md",
+    "Ebberon/Locations/Arcanix.md",
+    "Ebberon/Locations/Aundair.md",
+    "Ebberon/Characters/Other",
+    "Ebberon/Locations/Breland",
+    "Ebberon/Inventory/Newspapers/Korranberg Chronicle Issue 145.pdf",
+    "Currently Irelevant",
+    "Ebberon/Quests/Completed Objectives",
+    "Ebberon/Inventory/Newspapers/Korranberg Chronicle Issue 146.pdf",
+    "Ebberon/Quests/Side Quests",
+    "Ebberon/Inventory/Newspapers/Korranberg Chronicle Issue 147.pdf",
+    "Resources/Character Building Resources/Welcome to Eberron 2.pdf",
+    "Resources/Images/newspaper 145.png",
+    "Resources/Images/House Cannith Emblem img.png",
+    "Resources/Images/Korannberg Chronicle Issue 146.png",
+    "Resources/Images/Lock of Trickery img.png",
+    "Resources/Images/Pasted image 20260525222203.png",
+    "Images/Pasted image 20260525212144.png"
+  ]
+}

@@ -1,0 +1,79 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": false,
+  "showOrphans": false,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "file:Ebberon",
+      "color": {
+        "a": 1,
+        "rgb": 14725458
+      }
+    },
+    {
+      "query": "path:Ebberon/Quests/ ",
+      "color": {
+        "a": 1,
+        "rgb": 3714999
+      }
+    },
+    {
+      "query": "path:Ebberon/Locations  ",
+      "color": {
+        "a": 1,
+        "rgb": 5321421
+      }
+    },
+    {
+      "query": "path:\"Ebberon/World Events\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 15094097
+      }
+    },
+    {
+      "query": "path:Ebberon/Houses  ",
+      "color": {
+        "a": 1,
+        "rgb": 15555282
+      }
+    },
+    {
+      "query": "path:Ebberon/Characters  ",
+      "color": {
+        "a": 1,
+        "rgb": 283397
+      }
+    },
+    {
+      "query": "path:Ebberon/Inventory  ",
+      "color": {
+        "a": 1,
+        "rgb": 15169811
+      }
+    },
+    {
+      "query": "path:\"Ebberon/Characters/Adventuring Party\"  ",
+      "color": {
+        "a": 1,
+        "rgb": 5682008
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.1,
+  "nodeSizeMultiplier": 1.2484375,
+  "lineSizeMultiplier": 1,
+  "collapse-forces": false,
+  "centerStrength": 0.453125,
+  "repelStrength": 8.125,
+  "linkStrength": 1,
+  "linkDistance": 250,
+  "scale": 0.7132754626224291,
+  "close": false
+}

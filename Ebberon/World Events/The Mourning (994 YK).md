@@ -1,0 +1,1 @@
+A cataclysmic event that destroyed the entire nation of [[Cyre]] and created the Mournlands, engulfed in a strange mist.

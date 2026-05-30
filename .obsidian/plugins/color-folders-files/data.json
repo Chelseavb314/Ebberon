@@ -1,0 +1,11 @@
+{
+  "styles": {
+    "Ebberon": {
+      "backgroundColor": "#91420d",
+      "isBold": true,
+      "textColor": "#dfbfbf"
+    }
+  },
+  "presets": {},
+  "presetOrder": []
+}
