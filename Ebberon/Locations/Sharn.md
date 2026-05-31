@@ -1,4 +1,4 @@
-* City of towers located in Breland
+* City of towers located in [[Breland]]
 * Exists on a manifest zone
 * flying air ships
 * Home to [[Cyre Refugees]]
@@ -8,8 +8,7 @@ Fury and the god of passion and revenge
 
 ---
 
-# Places In Sharn
-
+# Districts
 
 ## Upper City
 * Home to the Arendelle Elves
@@ -19,7 +18,8 @@ Fury and the god of passion and revenge
 ### Morgrave University
 
 
-## Middle Dura
+
+## Middle Dura (Middle Sharn)
 ### Panaceum
 * Looks like a hospital
 * Home to the 12 Dragon Towers that represents the 12 [[dragon houses]]

@@ -1,8 +1,8 @@
 
 | Nation                 | Description                                                                                                              |
 | ---------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| Aundair                | Fertile farmland and floating towers. A magic focused nation.                                                            |
-| Breland                | An industrious nation with massive and diverse cities. Be ready to find espionage and crime.                             |
+| [[Aundair]]            | Fertile farmland and floating towers. A magic focused nation.                                                            |
+| [[Breland]]            | An industrious nation with massive and diverse cities. Be ready to find espionage and crime.                             |
 | Darguun                | A new nation of goblins & hobgoblins, along with bugbear clans. A less lawful place.                                     |
 | Eldeen Reaches         | Fertile farmland and the Towering Wood. Home to the druids and ties to the Fey.                                          |
 | [[Karrnath]]           | A cold nation under militant law. They turned to necromancy to bolster their armies.                                     |

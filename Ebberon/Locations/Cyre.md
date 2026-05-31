@@ -2,4 +2,4 @@
 
 
 ## Notes
-[[Cyre refugees]] can be found in Sharn.
+[[Cyre Refugees]] can be found in Sharn.
